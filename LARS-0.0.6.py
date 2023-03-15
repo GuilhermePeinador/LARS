@@ -5,6 +5,7 @@
 
     Título do Algoritmo = Codigo principal de propagacao orbital
     Autor= Rodrigo S. Cardozo
+    Otimizado por Guilherme Peinador Gomes
     Versão= 0.0.1
     Data= 21/02/23
 
