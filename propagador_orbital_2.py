@@ -126,7 +126,7 @@ def propagador_orbital2(data, semi_eixo, excentricidade, Raan, argumento_perigeu
     cont = 0
     Vzeros = np.zeros(N)
     print(Vzeros)
-    for i in range(Vzeros):
+    for i in range(len(Vzeros)):
     #while SMA > 6400  simula até a reentrada
     #while cont < T:
         qi = [h0, ecc0, true_anomaly0, Raan0, inc0, arg_per0]
